@@ -26,7 +26,7 @@ npm start
 
 3. Deploy to Github Pages using gh-pages
 ```shell
-npm deploy  
+npm run deploy  
 ```
 
 # References
